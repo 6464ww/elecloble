@@ -1,0 +1,17 @@
+[
+    {
+        "Id": 0,
+        "Price": 3,
+        "ColorType": "Red"
+    },
+    {
+        "Id": 1,
+        "Price": 4,
+        "ColorType": "Red"
+    },
+    {
+        "Id": 2,
+        "Price": 5,
+        "ColorType": "Red"
+    }
+]
